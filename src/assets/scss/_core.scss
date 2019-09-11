@@ -1,0 +1,20 @@
+//
+// Color system
+//
+$primary: #3340ff;
+
+// Fonts
+//
+// Font, line-height, and color for body text, headings, and more.
+$font-family-sans-serif: "Montserrat", "Helvetica", "Arial", sans-serif;
+$font-family-monospace: $font-family-sans-serif;
+$font-family-base: $font-family-sans-serif;
+
+@import "~bootstrap/scss/functions";
+@import "custom/functions";
+
+@import "custom/variables";
+@import "~bootstrap/scss/variables";
+
+@import "~bootstrap/scss/mixins";
+@import "custom/mixins";

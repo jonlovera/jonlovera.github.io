@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,400i,500,500i,700,800&display=swap");
+
+//
+// Font Awesome Font
+//
+$fa-font-path: "~@fortawesome/fontawesome-free/webfonts" !default;
+
+// @import "~@fortawesome/fontawesome-free/scss/regular";
+@import "~@fortawesome/fontawesome-free/scss/solid";
+@import "~@fortawesome/fontawesome-free/scss/brands";
+
+/*!
+ * Font Awesome Free 5.8.2 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+@import "~@fortawesome/fontawesome-free/scss/variables";
+@import "~@fortawesome/fontawesome-free/scss/mixins";
+@import "~@fortawesome/fontawesome-free/scss/core";
+// @import "~@fortawesome/fontawesome-free/scss/larger";
+// @import "~@fortawesome/fontawesome-free/scss/fixed-width";
+// @import "~@fortawesome/fontawesome-free/scss/list";
+// @import "~@fortawesome/fontawesome-free/scss/bordered-pulled";
+// @import "~@fortawesome/fontawesome-free/scss/animated";
+// @import "~@fortawesome/fontawesome-free/scss/rotated-flipped";
+// @import "~@fortawesome/fontawesome-free/scss/stacked";
+@import "~@fortawesome/fontawesome-free/scss/icons";
+// @import "~@fortawesome/fontawesome-free/scss/screen-reader";
+
+//
+// Nucleo Font
+//
+$nucleo-font-path: "~assets/fonts/nucleo/fonts" !default;
+@import "~assets/fonts/nucleo/scss/nucleo";
